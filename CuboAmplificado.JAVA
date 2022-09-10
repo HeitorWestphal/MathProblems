@@ -7,7 +7,7 @@ public class Cubo {
   
     public static void main(String[] args) {
         
-        Scanner entrada =new java.util.Scanner(System.in);
+        Scanner entrada = new java.util.Scanner(System.in);
         
         System.out.println("Digite 1 se você quer calcular a área do cubo ou digite 2 se você quer calcular o volume do cubo");
         int resposta = entrada.nextInt();
